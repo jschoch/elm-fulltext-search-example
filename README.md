@@ -1,5 +1,7 @@
 #  example of full text search in elm 0.17
 
+* [demo available here](https://s3-us-west-2.amazonaws.com/elmschoch/index.html)
+
 ```elm
 
  {-| Create an index and add multiple documents.
